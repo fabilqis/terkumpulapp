@@ -1,2 +1,2 @@
-# terkumpulapp
+# Terkumpul App
 Aplikasi CrownFunding
